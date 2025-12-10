@@ -41,7 +41,3 @@ This project delivers a production-ready airline analytics platform with:
 - DLT pipeline for clean Silver schema
 - dbt Gold models powering consistent semantic layers
 - Real-time analytics for bookings, profitability, market share, and customer segmentation
-
-
-
-Add automated QA tests using dbt tests & Great Expectations
